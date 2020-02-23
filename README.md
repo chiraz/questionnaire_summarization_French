@@ -1,6 +1,6 @@
 # Introduction
 
-This project concers the automated analysis and summarization of free text answers written in French for a 60-question questionnaire on attitudes about work conditions in Tunisia and migration. The questionnaire was answered anonymously via Google forms by 324 young engineering students from about 5 different public higher education institutions in Tunis (mostly ENIT and INSAT).  This questionnaire was part of an informal social research study at l'ENIT on the brain drain problem in Tunisia.
+This project concerns the automated analysis and summarization of free text answers written in French for a 60-question questionnaire on attitudes about work conditions in Tunisia and migration. The questionnaire was answered anonymously via Google forms by 324 young engineering students from about 5 different public higher education institutions in Tunis (mostly ENIT and INSAT).  This questionnaire was part of an informal social research study at l'ENIT on the brain drain problem in Tunisia.
 
 # The Questions
 1. Qu'est-ce qui vous ferait rester en Tunisie ?  (*What would you stay in Tunisia*)
